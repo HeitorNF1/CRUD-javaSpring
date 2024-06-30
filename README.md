@@ -19,10 +19,15 @@ Este projeto é uma API RESTful que permite a gestão de um catálogo de aliment
 
 ## Tecnologias Utilizadas
 
-- Java 11
-- Spring Boot
-- Spring Data JPA
-- Banco de Dados Relacional (MySQL)
+-Spring Boot Starter Data JPA
+-Spring Boot Starter Validation
+-Spring Boot Starter Web
+-Flyway Core
+-Flyway MySQL
+-Spring Boot DevTools
+-MySQL Connector
+-Lombok
+-Spring Boot Starter Test
 
 ## Requisitos
 
